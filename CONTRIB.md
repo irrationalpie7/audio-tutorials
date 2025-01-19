@@ -9,6 +9,12 @@ First, you may need to [install Jekyll](https://jekyllrb.com/docs/installation/#
 If you have that working, then from the `docs/` directory, run:
 
 ```
+bundle install
+```
+
+and
+
+```
 bundle exec jekyll serve
 ```
 
