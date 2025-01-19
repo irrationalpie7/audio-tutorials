@@ -1,6 +1,5 @@
 ---
 title: Theme
-layout: page
 permalink: /theme/
 ---
 

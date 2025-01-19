@@ -30,17 +30,17 @@ repository: irrationalpie7/audio-tutorials # for github-metadata
 
 permalink: pretty
 
+# Build settings
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
 defaults:
   - scope:
       path: "docs" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"
-
-# Build settings
-theme: just-the-docs
-plugins:
-  - jekyll-feed
 
 aux_links:
   Tutorial Repository: https://github.com/irrationalpie7/audio-tutorials
