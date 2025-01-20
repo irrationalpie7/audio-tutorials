@@ -53,9 +53,6 @@ aux_links:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - README.md
-  - CONTRIB.md
-  - LICENSE
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
