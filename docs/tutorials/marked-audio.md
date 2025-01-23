@@ -59,7 +59,7 @@ Otherwise, carry on:
 
 5. Click on the first label track (the one with the region labels) and navigate to the first label (alt or opt + left/right arrows). This will also select the corresponding audio.
 
-   1. Press z to align the waveform on either end of the audio selection
+   1. Press z to [align the waveform](https://manual.audacityteam.org/man/select_menu_at_zero_crossings.html) on either end of the audio selection
    2. (optional) press space to play back the click and make sure it’s actually a click and not a particularly loud word
    3. Press delete to remove the audio. (This will sometimes delete the region label, and sometimes not--we’re going to delete that whole label track in a sec so this doesn’t matter)
    4. Navigate to the next region label
