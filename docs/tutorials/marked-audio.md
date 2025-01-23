@@ -1,6 +1,7 @@
 ---
 title: Editing marked audio
 parent: Tutorials
+nav_order: 2
 ---
 
 # Editing marked audio in Audacity
